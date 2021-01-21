@@ -4,8 +4,7 @@
 
 ### Information
 
-Please refer to the document at   url: https://github.com/prakharsdev/ChromeDino/blob/master/UsingGeneticAlgorithmAsAGamePlayMechanicToPayChromeDinoGame.pdf
-  for the informtion and how to execution
+Technical documentation of this project is available at url:   https://github.com/prakharsdev/ChromeDino/blob/master/UsingGeneticAlgorithmAsAGamePlayMechanicToPayChromeDinoGame.pdf
 
 ### Environment
 
