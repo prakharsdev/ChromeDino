@@ -17,7 +17,7 @@ python=3.8 is used
 pip install -r requirements.txt
 ```
 
-### Execution
+### Execution (approach 1)
 
 Once you clone the repo, you can execute `ChromeDino` using below command
 
@@ -25,6 +25,6 @@ Once you clone the repo, you can execute `ChromeDino` using below command
 python GeneticChromeDino.py
 ```
 
-### Execution logs
+### Execution logs (approach 1)
 
 Can be found in file executionlog.txt
