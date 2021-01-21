@@ -7,10 +7,22 @@
 Please refer to the document at url: https://github.com/prakharsdev/ChromeDino/blob/master/UsingGeneticAlgorithmAsAGamePlayMechanicToPayChromeDinoGame.pdf
 for the informtion and how to execution
 
-### Execute
+### Environment
+
+```
+python=3.8 is used
+```
+
+### Requirements
+```
+pip install -r requirement.txt
+```
+
+### Execution
 
 Once you clone the repo, you can execute `ChromeDino` using below command
 
 ```
 python GeneticChromeDino.py
 ```
+
