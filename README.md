@@ -4,8 +4,8 @@
 
 ### Information
 
-Please refer to the document at url: https://github.com/prakharsdev/ChromeDino/blob/master/UsingGeneticAlgorithmAsAGamePlayMechanicToPayChromeDinoGame.pdf
-for the informtion and how to execution
+Please refer to the document at   url: https://github.com/prakharsdev/ChromeDino/blob/master/UsingGeneticAlgorithmAsAGamePlayMechanicToPayChromeDinoGame.pdf
+  for the informtion and how to execution
 
 ### Environment
 
@@ -15,7 +15,7 @@ python=3.8 is used
 
 ### Requirements
 ```
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 ### Execution
