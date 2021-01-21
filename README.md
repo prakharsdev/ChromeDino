@@ -25,3 +25,6 @@ Once you clone the repo, you can execute `ChromeDino` using below command
 python GeneticChromeDino.py
 ```
 
+### Execution logs
+
+Can be found in file executionlog.txt
