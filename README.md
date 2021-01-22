@@ -28,3 +28,10 @@ python GeneticChromeDino.py
 ### Execution logs (approach 1)
 
 Can be found in file executionlog.txt
+
+
+### Execution (approach 2: NEAT Algorithm)
+To bring some intelligence in the game, NEAT Algroithm is used. For the algorithm implementation, [NEAT-Python](https://neat-python.readthedocs.io/en/latest/index.html) library is used. To try out A.I. learning to play the game, run a command
+```
+python NEATChromeDino.py
+```
